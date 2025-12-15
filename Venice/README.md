@@ -1,2 +1,2 @@
 # [Venice](https://venice.ai)
-The prompt should be 100% full.
+The prompt is likely more complete than the NotebookLM prompt here.
